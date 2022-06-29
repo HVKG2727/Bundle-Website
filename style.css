@@ -1,0 +1,119 @@
+ 
+
+.pad{
+    padding: 20px;
+    color: aqua;
+}
+.ios{
+    padding: 10px;
+    overflow: hidden;
+    text-decoration: none;
+
+}
+.app{
+    padding: 15px;
+}
+
+.and{
+    padding: 10px;
+    overflow: hidden;
+    text-decoration: none;
+
+}
+.mob{
+    padding: 15px;
+}
+.ico{
+    padding: 5px;
+}
+.wid{
+    width: 50%;
+    padding: 10px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    
+    
+}
+
+/* .bac{
+    height: 300px;
+    width: 100%;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding: 20px;
+    background-color: rgb(218, 236, 236);
+} */
+
+.mt-n1 {
+    margin-top: -75px !important;
+  }
+
+
+
+.pg h6{
+    margin-top: 40px;
+    color: rgb(54, 238, 54);
+}
+.pg h1{
+    color: blue;
+    padding-top: 10px;
+}
+.pg p{
+    color: black;
+    line-height: 2rem;
+}
+.fl {
+    color: black;
+    /* border: 2px solid tomato; */
+    border-radius: 15px;
+    justify-content: center;
+}
+
+.head{
+    border: 2px solid black;
+    /* background-color: goldenrod; */
+    border-radius: 15px;
+}
+
+.mid{
+    /* border: 2px solid tomato; */
+    margin: 10px;
+    padding: 10px;
+    /* background-color: grey; */
+    border-radius: 15px;
+
+    
+
+}
+
+/* .card{
+    border: 2px solid tan;
+    border-collapse: separate;
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+} */
+
+.card1{
+    /* border: 2px solid tan; */
+    border-radius: 15px;
+    /* border-collapse: separate; */
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* background-color: rgb(23, 94, 94); */
+}
+.mar{
+     padding: 30px;
+     /* font-size: 1rem;
+     margin: 30px;
+     /* display: block; */
+}
+
+.lin{
+    height: 2px black;
+    width: 100%;
+}
+
+
